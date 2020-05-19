@@ -1,5 +1,6 @@
 package mode.activeProxy.cglib;
 
+import org.springframework.cglib.proxy.CallbackFilter;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;
@@ -20,10 +21,16 @@ public class ProxyFactory implements MethodInterceptor {
     // 给目标对象创建一个代理对象
     public Object getProxyInstance(){
         //1.工具类
-
         Enhancer en = new Enhancer();
         //2.设置父类
         en.setSuperclass(target.getClass());
+        en.setCallbackFilter(new CallbackFilter() {
+            @Override
+            public int accept(Method method) {
+                System.out.println("执行过滤");
+                return 0;
+            }
+        });
         //3.设置回调函数
         en.setCallback(this);
         //4.创建子类(代理对象)
@@ -38,4 +45,5 @@ public class ProxyFactory implements MethodInterceptor {
         System.out.println("谢谢大家");
         return returnValue;
     }
+
 }

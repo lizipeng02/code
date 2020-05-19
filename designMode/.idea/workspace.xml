@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7481442-79f5-4f6d-8f83-3c0e95b395be" name="Default Changelist" comment="观察者模式">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/ISinger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/staticProxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/staticProxy/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/staticProxy/ProxyPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode/staticProxy/RealImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b7481442-79f5-4f6d-8f83-3c0e95b395be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designMode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/BinaryObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/HexaObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/ObserverPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/singleton/SingletonHungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/singleton/SingletonHungry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/singleton/SingletonLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/CashContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/CashContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/CashNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/CashNormal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/CashRebate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/CashRebate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/CashReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/CashReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/CashSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/CashSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/stragegy2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/stragegy2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/strategy/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/strategy/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/strategy/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/strategy/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/strategy/GreenDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/strategy/GreenDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/strategy/QuackBehor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/strategy/QuackBehor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mode/strategy/StoneDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/strategy/StoneDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mode/staticProxy/RealImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mode/staticProxy/ProxyImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mode/staticProxy/ProxyPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Singer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="175">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
@@ -102,9 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="167">
               <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -112,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Singer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#145#146#0" expanded="true" />
@@ -122,25 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.5.RELEASE/spring-core-3.2.5.RELEASE.jar!/org/springframework/cglib/proxy/Enhancer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="632" selection-start-line="632" selection-end-line="632" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            <state relative-caret-position="376">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -217,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/mode/activeProxy/cglib/Test.java" />
         <option value="$PROJECT_DIR$/src/mode/activeProxy/cglib/ProxyFactory.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java" />
       </list>
     </option>
@@ -297,6 +243,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mode" type="462c0819:PsiDirectoryNode" />
+              <item name="activeProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mode" type="462c0819:PsiDirectoryNode" />
+              <item name="activeProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -311,7 +276,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589890429782" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589893063952" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -369,6 +334,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mode.activeProxy.cglib.Test" />
+      <module name="designMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mode.activeProxy.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singlon.strategy.Test" />
       <module name="designMode" />
@@ -398,6 +376,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.SingletonLazy" />
@@ -417,7 +396,7 @@
       <workItem from="1589797138577" duration="13497000" />
       <workItem from="1589823297681" duration="2694000" />
       <workItem from="1589851479230" duration="12867000" />
-      <workItem from="1589885344199" duration="3957000" />
+      <workItem from="1589885344199" duration="6581000" />
     </task>
     <task id="LOCAL-00001" summary="单例和工厂">
       <created>1589819635628</created>
@@ -468,16 +447,31 @@
       <option name="project" value="LOCAL" />
       <updated>1589864427610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="项目目录结构改成maven，添加cglib代理模式">
+      <created>1589890497820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589890497820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="补提">
+      <created>1589890533629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589890533629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33015000" />
+    <option name="totallyTimeSpent" value="35639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +481,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -520,7 +514,21 @@
     <MESSAGE value="策略模式" />
     <MESSAGE value="包结构调整" />
     <MESSAGE value="观察者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="观察者模式" />
+    <MESSAGE value="项目目录结构改成maven，添加cglib代理模式" />
+    <MESSAGE value="补提" />
+    <option name="LAST_COMMIT_MESSAGE" value="补提" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -801,9 +809,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.5.RELEASE/spring-core-3.2.5.RELEASE.jar!/org/springframework/cglib/proxy/Callback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.5.RELEASE/spring-core-3.2.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Singer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="175">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="e#113#114#0" expanded="true" />
@@ -812,20 +848,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/JDKProxy/Test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.5.RELEASE/spring-core-3.2.5.RELEASE.jar!/org/springframework/cglib/proxy/Enhancer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="182">
+          <caret line="632" selection-start-line="632" selection-end-line="632" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Singer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#145#146#0" expanded="true" />
@@ -835,26 +868,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mode/activeProxy/cglib/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="376">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
