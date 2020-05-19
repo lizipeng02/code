@@ -1,8 +1,6 @@
 package mode.strategy;
 
-import mode.Strategy;
-
-public class StoneDuck implements Strategy.FlyBehavior, Strategy.QuackBehor {
+public class StoneDuck implements FlyBehavior, QuackBehor {
 
     @Override
     public void fly(){

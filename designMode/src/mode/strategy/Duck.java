@@ -1,7 +1,5 @@
 package mode.strategy;
 
-import mode.Strategy;
-
 public abstract class Duck {
 
     FlyBehavior flyBehavior;
