@@ -1,6 +1,4 @@
-package singlon;
-
-import java.nio.channels.ClosedSelectorException;
+package singlon.factory;
 
 public class Factory {
 
