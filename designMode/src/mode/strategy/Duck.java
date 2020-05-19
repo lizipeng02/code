@@ -1,6 +1,6 @@
-package singlon.strategy;
+package mode.strategy;
 
-import singlon.Strategy;
+import mode.Strategy;
 
 public abstract class Duck {
 

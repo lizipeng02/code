@@ -1,4 +1,4 @@
-package singlon;
+package mode.singleton;
 /*
 * 饿汉式
 * */

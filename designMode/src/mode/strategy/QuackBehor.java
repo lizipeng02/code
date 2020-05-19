@@ -1,4 +1,4 @@
-package singlon.strategy;
+package mode.strategy;
 
 public interface QuackBehor {
     void quack();

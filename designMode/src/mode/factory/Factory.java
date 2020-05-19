@@ -1,4 +1,4 @@
-package singlon.factory;
+package mode.factory;
 
 public class Factory {
 

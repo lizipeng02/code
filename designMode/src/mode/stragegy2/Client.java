@@ -1,4 +1,4 @@
-package singlon.stragegy2;
+package mode.stragegy2;
 
 import java.util.Scanner;
 

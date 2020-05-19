@@ -1,7 +1,5 @@
-package singlon;
+package mode.singleton;
 
-
-import javax.sound.midi.Soundbank;
 
 public class SingletonLazy {
 

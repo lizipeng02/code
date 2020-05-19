@@ -1,6 +1,6 @@
-package singlon.strategy;
+package mode.strategy;
 
-import singlon.Strategy;
+import mode.Strategy;
 
 public class GreenDuck extends Duck {
 
