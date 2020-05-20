@@ -12,6 +12,7 @@ public class Test{
         //执行代理对象的方法
         System.out.println("代理方法执行开始");
         proxy.sing();
+
         System.out.println("代理方法执行完毕");
     }
 }
