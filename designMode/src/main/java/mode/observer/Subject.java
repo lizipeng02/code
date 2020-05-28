@@ -27,6 +27,9 @@ public class Subject {
     public void notifyAllObservers(){
         for (Observer observer : observers) {
             observer.update();
+            //假如痛知不同的观察者做不同的事情，需要携带信息过去
+            //observer.update(Subject su,Event event);
+            //这个时候抽象出事件对象event，节省代码，就成了监听模式
         }
     }
 }
